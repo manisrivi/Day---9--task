@@ -1,0 +1,86 @@
+.free {
+    position: relative;
+    left: 10px;
+    top: 10px;
+} 
+
+#heading {
+    position: relative;
+    left: 15px;
+    font-size: 30px;
+}
+.name1 {
+    position: relative;
+    left: 10px;
+     top: 10px;
+}
+#name1 {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.name2 {
+    position: relative;
+    left: 300px;
+    top: -30px;
+}
+#name2 {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.name3 {
+    position: relative;
+    left:12px;
+    top: -20px;
+}
+#name3 {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.name4 {
+    position: relative;
+    left: 10px;
+    top: -10px;
+}
+#name4 {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.name5 {
+    position: relative;
+    left:190px;
+    top: -50px;
+}
+#name5 {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.name6 {
+    position: relative;
+    left:370px;
+    top: -90px;
+}
+#name6 {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.name7 {
+    position: relative;
+    left: 10px;
+    top: -70px;
+}
+.name8 {
+    position: relative;
+    left: 10px;
+    top: -60px;
+}
+.box {
+    border: 2px solid rgb(8, 8, 8);
+    width: 540px;
+}
+
